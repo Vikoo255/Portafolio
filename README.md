@@ -2,13 +2,6 @@
 
 Este es mi portafolio profesional como desarrollador web. Incluye información personal, experiencia laboral, certificaciones y proyectos desarrollados con tecnologías del stack JavaScript.
 
-## Tecnologías utilizadas
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
-- jQuery
-- GitHub
 
 ## Cómo ver el proyecto
 El sitio está disponible en GitHub Pages:
